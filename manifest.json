@@ -14,7 +14,7 @@
   "serviceworker": {
   "src": "/1v1/pwabuilder-sw.js",
   "type": "Offline page",
-  "update_via_cache": "none"
+  "update_via_cache": "none",
    "scope": "/1v1/"
 }
 }
