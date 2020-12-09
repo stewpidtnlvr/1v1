@@ -5,7 +5,7 @@
   "background_color": "#2196f3",
   "display": "standalone",
   "start_url": "/1v1/index.html"
-  "icons" : [
+  "icons": [
     {"src": "/1v1/192.png", "sizes" : "192x192", "type": "image/png"},
     {"src": "/1v1/144.png", "sizes" : "144x144", "type": "image/png"},
     {"src": "/1v1/96.png", "sizes" : "96x96", "type": "image/png"},
@@ -13,7 +13,7 @@
 ],
   "serviceworker": {
   "src": "/1v1/pwabuilder-sw.js",
-  "type": "",
+  "type": "Offline page",
   "update_via_cache": "none"
 }
 }
