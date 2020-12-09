@@ -4,7 +4,7 @@
   "theme_color": "#2196f3",
   "background_color": "#2196f3",
   "display": "standalone",
-  "start_url": "/1v1/index.html"
+  "start_url": "/1v1/index.html",
   "icons": [
     {"src": "/1v1/192.png", "sizes" : "192x192", "type": "image/png"},
     {"src": "/1v1/144.png", "sizes" : "144x144", "type": "image/png"},
@@ -15,5 +15,6 @@
   "src": "/1v1/pwabuilder-sw.js",
   "type": "Offline page",
   "update_via_cache": "none"
+   "scope": "/1v1/"
 }
 }
